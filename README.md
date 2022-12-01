@@ -12,7 +12,7 @@ We made small attempts to mimic some Chinese Instruments with Pure Data.
 
 ## p5js version
 
-We also have a web version of this project [[link]](https://editor.p5js.org/FooJiaYin/full/VaW3goaz2) though the sound is different on the web.
+&emsp;We also have a web version of this project [[link]](https://editor.p5js.org/FooJiaYin/full/VaW3goaz2) though the sound is different on the web.
 
 ## Future Work
 
